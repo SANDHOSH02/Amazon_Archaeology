@@ -83,10 +83,4 @@ This project was a deep dive into how AI, open data, and geospatial science can 
 
 ---
 
-## 📬 Contact
-
-**Santhosh G**  
-B.Tech - Artificial Intelligence & Data Science  
-[LinkedIn](https://www.linkedin.com/in/) *(add your profile link)*  
-[GitHub](https://github.com/SANDHOSH02)  
 
