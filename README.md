@@ -47,5 +47,46 @@ The goal of this project is to identify and document previously unknown **geogly
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🗺️ Key Findings
+
+- Identification of spatial clusters likely to represent unknown geoglyph sites.
+- Pattern prediction using LIDAR contours and vegetation anomalies.
+- Insightful overlays comparing ancient maps and AI model predictions.
+
+See detailed write-up here:  
+**Kaggle:** [Project Write-Up](https://www.kaggle.com/code/ofdssxcvnm/openai-to-z-challenge)
+
+---
+
+## 📸 Sample Visuals
+
+- Satellite overlays of geoglyph candidates  
+- LIDAR elevation maps showing settlement contours  
+- AI-generated location clustering
+
+*(All visuals available in `/outputs` and within Jupyter notebooks)*
+
+---
+
+## 🏁 Conclusion
+
+This project was a deep dive into how AI, open data, and geospatial science can come together to uncover our lost history. While this was my **first major AI research challenge**, it laid the foundation for further explorations in archaeology and data science.
+
+---
+
+## 🔗 Links
+
+- **GitHub Repository:** [Amazon_Archaeology](https://github.com/SANDHOSH02/Amazon_Archaeology)  
+- **Kaggle Write-up:** [View on Kaggle](https://www.kaggle.com/code/ofdssxcvnm/openai-to-z-challenge)
+
+---
+
+## 📬 Contact
+
+**Santhosh G**  
+B.Tech - Artificial Intelligence & Data Science  
+[LinkedIn](https://www.linkedin.com/in/) *(add your profile link)*  
+[GitHub](https://github.com/SANDHOSH02)  
 
